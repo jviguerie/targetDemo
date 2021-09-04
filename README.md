@@ -1,3 +1,3 @@
 # targetDemo
-# Use the image HSV_target.pg in your detection program
+# Use the image HSV_target.png in your detection program
 #
